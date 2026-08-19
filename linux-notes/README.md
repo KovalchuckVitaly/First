@@ -16,7 +16,8 @@
 | Module | Topic            | Status      |
 |---     |---               |---          |
 | 01     | Linux Filesystem | Completed   |
-| 02     | Linux Processes  | In progress |
+| 02     | Linux Processes  | Completed   |
+| 03     | Users, Groups & Permissions  | Completed   |
 
 ## Structure
 
