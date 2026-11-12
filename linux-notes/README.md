@@ -19,8 +19,8 @@
 | 02 | [Linux Processes](02-processes/) | Completed |
 | 03 | [Users, Groups & Permissions](03-users-and-permissions/) | Completed |
 | 04 | [Services & systemd](04-services-systemd/) | Completed |
-| 05 | Linux Networking | In Progress |
-| 06 | Linux Storage & Filesystems | Planned |
+| 05 | Linux Networking | Completed |
+| 06 | Linux Storage & Filesystems | In progress |
 | 07 | Linux Security & SSH | Planned |
 | 08 | Bash Scripting | Planned |
 | 09 | Git & GitHub | Planned |
